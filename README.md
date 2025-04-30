@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Mirgal</h1>
 <h3 align="center">A FullStack developer (MERN Stack) and  Machine Learning and Deep learning Enginner.</h3>>
 <h3 align="center">An OpenSource Contributor </h3>
+<h3 align="center">Open for freelancing clients !! -- Robust and scalable Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay-mirgal&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay-mirgal" /> </p>
 
