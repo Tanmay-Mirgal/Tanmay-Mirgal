@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanmay-Mirgal/](https://github.com/Tanmay-Mirgal/)
 
-- 💬 Ask me about **MERN STACK**
+- 💬 Ask me about **MERN STACK** and about **Machine Learning** &  **Deep Learning**
 
 - 📫 How to reach me **tanmaymirgal26@gmail.com**
 
