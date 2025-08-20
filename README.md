@@ -27,9 +27,9 @@
   <a href="https://kaggle.com/tanmayjitendramirgal" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://instagram.com/https.tanmay_mirgal" target="_blank">
+<!--   <a href="https://instagram.com/https.tanmay_mirgal" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://discord.gg/https://discord.com/tanmay_mirgal_026" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>
