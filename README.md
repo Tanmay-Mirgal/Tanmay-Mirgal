@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanmay Mirgal</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🤖 ML & DL Engineer | 🌍 Open Source Contributor | 💼 Freelancer</h3>
+<h3 align="center">
+  🚀 Full-Stack Developer | 🤖 ML & DL Engineer | 🌍 Open Source Contributor | 💼 Freelancer | ⚙️ DevOps
+</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanmay-mirgal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
