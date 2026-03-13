@@ -79,15 +79,6 @@
 
 ---
 
-#### 🗺️ GitHub Contribution Heatmap
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/tanmay-mirgal" alt="Tanmay's GitHub Contribution Chart" />
-</p>
-
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
