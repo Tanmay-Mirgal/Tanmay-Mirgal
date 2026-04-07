@@ -123,21 +123,25 @@ const tanmay = {
 
 > ⭐ Real-world projects — not tutorials, not clones.
 
-### 🔷 [Project Name 1](https://github.com/Tanmay-Mirgal/) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b) ![Forks](https://img.shields.io/github/forks/Tanmay-Mirgal/your-repo?style=flat-square&color=38bdf8)
+### 🔷 [Samadhan](https://github.com/Tanmay-Mirgal/) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b) ![Forks](https://img.shields.io/github/forks/Tanmay-Mirgal/your-repo?style=flat-square&color=38bdf8)
 > **Stack:** React · Node.js · MongoDB · Redis · AWS  
 > 📌 Description of what this project does and the problem it solves.  
 > 🎯 Key achievement: e.g. *Handles 10k+ concurrent requests with sub-100ms response time*
 
-### 🔷 [Project Name 2](https://github.com/Tanmay-Mirgal/) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
+### 🔷 [Smart Meeter](https://github.com/Tanmay-Mirgal/) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
 > **Stack:** Python · TensorFlow · OpenCV · FastAPI  
 > 📌 What ML/DL problem this solves.  
 > 🎯 Key achievement: e.g. *Achieved 94.7% accuracy on custom dataset*
 
-### 🔷 [Project Name 3](https://github.com/Tanmay-Mirgal/) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
+### 🔷 [Finch AI Intelligent Banking Recommendation Engine](https://github.com/Tanmay-Mirgal/) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
 > **Stack:** MERN · PostgreSQL · Docker · CI/CD  
 > 📌 Description of what this app does.  
 > 🎯 Key achievement: e.g. *Deployed and serving 500+ active users*
 
+### 🔷 [Cognix](https://github.com/Tanmay-Mirgal/) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
+> **Stack:** MERN · PostgreSQL · Docker · CI/CD  
+> 📌 Description of what this app does.  
+> 🎯 Key achievement: e.g. *Deployed and serving 500+ active users*
 <div align="center">
 
 **[🔗 See All Projects →](https://github.com/Tanmay-Mirgal?tab=repositories)**
@@ -236,6 +240,6 @@ const tanmay = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a4e,100:0f0c29&height=130&section=footer"/>
 
-<sub>⚡ All GitHub stats update automatically · No manual edits needed · Data sourced live from GitHub API</sub>
+<!-- <sub>⚡ All GitHub stats update automatically · No manual edits needed · Data sourced live from GitHub API</sub> -->
 
 </div>
