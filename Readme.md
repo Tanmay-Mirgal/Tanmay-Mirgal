@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/tanmay-mirgal-1402792a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:tanmaymirgal26@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.kaggle.com/tanmayjitendramirgal"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://github.com/Tanmay-Mirgal/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://tanmay-dev-81mf.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://discord.com/tanmay_mirgal_026"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 <br/><br/>
@@ -226,9 +226,9 @@ const tanmay = {
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-mirgal)
-[![View Projects](https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanmay-Mirgal/)
-[![Kaggle](https://img.shields.io/badge/Kaggle%20Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/tanmayjitendramirgal)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-mirgal-1402792a2/)
+[![View Projects](https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanmay-Mirgal?tab=repositories)
+[![Kaggle](https://img.shields.io/badge/Kaggle%20Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tanmayjitendramirgal)
 
 <br/>
 
