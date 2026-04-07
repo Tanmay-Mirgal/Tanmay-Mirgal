@@ -123,22 +123,22 @@ const tanmay = {
 
 > ⭐ Real-world projects — not tutorials, not clones.
 
-### 🔷 [Samadhan](https://github.com/Tanmay-Mirgal/) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b) ![Forks](https://img.shields.io/github/forks/Tanmay-Mirgal/your-repo?style=flat-square&color=38bdf8)
+### 🔷 [Samadhan](https://github.com/Tanmay-Mirgal/Samadhan) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b) ![Forks](https://img.shields.io/github/forks/Tanmay-Mirgal/your-repo?style=flat-square&color=38bdf8)
 > **Stack:** React · Node.js · MongoDB · Redis · AWS  
 > 📌 Description of what this project does and the problem it solves.  
 > 🎯 Key achievement: e.g. *Handles 10k+ concurrent requests with sub-100ms response time*
 
-### 🔷 [Smart Meeter](https://github.com/Tanmay-Mirgal/) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
+### 🔷 [Smart Meeter](https://github.com/Tanmay-Mirgal/Smart-Meeter) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
 > **Stack:** Python · TensorFlow · OpenCV · FastAPI  
 > 📌 What ML/DL problem this solves.  
 > 🎯 Key achievement: e.g. *Achieved 94.7% accuracy on custom dataset*
 
-### 🔷 [Finch AI Intelligent Banking Recommendation Engine](https://github.com/Tanmay-Mirgal/) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
+### 🔷 [Finch AI Intelligent Banking Recommendation Engine](https://github.com/Tanmay-Mirgal/Finch-AI-Intelligent-Banking-Recommendation-Engine) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
 > **Stack:** MERN · PostgreSQL · Docker · CI/CD  
 > 📌 Description of what this app does.  
 > 🎯 Key achievement: e.g. *Deployed and serving 500+ active users*
 
-### 🔷 [Cognix](https://github.com/Tanmay-Mirgal/) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
+### 🔷 [Cognix](https://github.com/Tanmay-Mirgal/Cognix) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
 > **Stack:** MERN · PostgreSQL · Docker · CI/CD  
 > 📌 Description of what this app does.  
 > 🎯 Key achievement: e.g. *Deployed and serving 500+ active users*
