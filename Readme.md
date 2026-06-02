@@ -8,10 +8,12 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/tanmay-mirgal-1402792a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tanmay-mirgal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:tanmaymirgal26@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.kaggle.com/tanmayjitendramirgal"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Tanmay_Mirgal/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://tanmay-dev-81mf.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://gitlab.com/Tanmay-Mirgal"><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <a href="https://discord.com/tanmay_mirgal_026"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 <br/><br/>
