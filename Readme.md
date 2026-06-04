@@ -127,22 +127,22 @@ const tanmay = {
 
 ### 🔷 [Samadhan](https://github.com/Tanmay-Mirgal/Samadhan) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b) ![Forks](https://img.shields.io/github/forks/Tanmay-Mirgal/your-repo?style=flat-square&color=38bdf8)
 > **Stack:** React · Node.js · MongoDB · Redis · AWS  
-> 📌 Description of what this project does and the problem it solves.  
+> 📌 Description : AI-powered civic issue reporting platform with real-time tracking and intelligent resolution workflows.
 > 🎯 Key achievement: e.g. *Handles 10k+ concurrent requests with sub-100ms response time*
 
 ### 🔷 [Smart Meeter](https://github.com/Tanmay-Mirgal/Smart-Meeter) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
 > **Stack:** Python · TensorFlow · OpenCV · FastAPI  
-> 📌 What ML/DL problem this solves.  
+> 📌 Description : AI Meeting Assistant that captures conversations, generates summaries, and improves productivity through automation..  
 > 🎯 Key achievement: e.g. *Achieved 94.7% accuracy on custom dataset*
 
 ### 🔷 [Finch AI Intelligent Banking Recommendation Engine](https://github.com/Tanmay-Mirgal/Finch-AI-Intelligent-Banking-Recommendation-Engine) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
 > **Stack:** MERN · PostgreSQL · Docker · CI/CD  
-> 📌 Description of what this app does.  
+> 📌 Description : Finch AI is a comprehensive banking intelligence platform that leverages machine learning to analyze bank statements and provide personalized product recommendations.  
 > 🎯 Key achievement: e.g. *Deployed and serving 500+ active users*
 
 ### 🔷 [Cognix](https://github.com/Tanmay-Mirgal/Cognix) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
 > **Stack:** MERN · PostgreSQL · Docker · CI/CD  
-> 📌 Description of what this app does.  
+> 📌 Description : An AI-powered cognitive health platform for assessment, speech analytics, OCR processing, caregiver monitoring, and intelligent clinical insights.  
 > 🎯 Key achievement: e.g. *Deployed and serving 500+ active users*
 <div align="center">
 
