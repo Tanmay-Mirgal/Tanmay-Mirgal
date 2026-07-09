@@ -130,19 +130,32 @@ const tanmay = {
 > 📌 Description : AI-powered civic issue reporting platform with real-time tracking and intelligent resolution workflows.
 > 🎯 Key achievement: e.g. *Handles 10k+ concurrent requests with sub-100ms response time*
 
-### 🔷 [Smart Meeter](https://github.com/Tanmay-Mirgal/Smart-Meeter) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
+### 🔷 [Smart Meet](https://github.com/Tanmay-Mirgal/Smart-Meeter) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
 > **Stack:** Python · TensorFlow · OpenCV · FastAPI  
 > 📌 Description : AI Meeting Assistant that captures conversations, generates summaries, and improves productivity through automation..  
 > 🎯 Key achievement: e.g. *Achieved 94.7% accuracy on custom dataset*
+> Link :- https://smart-meet.tanmaymirgal.dev
 
-### 🔷 [Finch AI Intelligent Banking Recommendation Engine](https://github.com/Tanmay-Mirgal/Finch-AI-Intelligent-Banking-Recommendation-Engine) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
+### 🔷 [Slate](https://github.com/Tanmay-Mirgal/Slate) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
 > **Stack:** MERN · PostgreSQL · Docker · CI/CD  
-> 📌 Description : Finch AI is a comprehensive banking intelligence platform that leverages machine learning to analyze bank statements and provide personalized product recommendations.  
+> 📌 Description : Slate is a premium, enterprise-grade SaaS application designed to eliminate the friction between thinking, drawing, and documenting..  
 > 🎯 Key achievement: e.g. *Deployed and serving 500+ active users*
+> Link : https://slate.tanmaymirgal.dev
 
 ### 🔷 [Cognix](https://github.com/Tanmay-Mirgal/Cognix) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
 > **Stack:** MERN · PostgreSQL · Docker · CI/CD  
 > 📌 Description : An AI-powered cognitive health platform for assessment, speech analytics, OCR processing, caregiver monitoring, and intelligent clinical insights.  
+> 🎯 Key achievement: e.g. *Deployed and serving 500+ active users*
+
+### 🔷 [Raga-Music-Player](https://github.com/Tanmay-Mirgal/Raga-Music-Player-) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
+> **Stack:** MERN · PostgreSQL · Docker · CI/CD  
+> 📌 Description : Raga is a premium, next-generation music player ecosystem. 
+> 🎯 Key achievement: e.g. *Deployed and serving 500+ active users*
+> Link :- https://raga.tanmaymirgal.dev
+
+### 🔷 [Orb](https://github.com/Tanmay-Mirgal/Orb) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
+> **Stack:** MERN · PostgreSQL · Docker · CI/CD  
+> 📌 Description : Orb is a fast, scalable Platform-as-a-Service (PaaS) for seamlessly deploying and hosting web applications.  
 > 🎯 Key achievement: e.g. *Deployed and serving 500+ active users*
 <div align="center">
 
