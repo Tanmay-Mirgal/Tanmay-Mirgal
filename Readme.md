@@ -119,86 +119,175 @@ const tanmay = {
 
 </div>
 
----
-
 ## 🚀 Featured Projects
 
-> ⭐ Real-world projects — not tutorials, not clones.
-
-### 🔷 [Samadhan](https://github.com/Tanmay-Mirgal/Samadhan) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b) ![Forks](https://img.shields.io/github/forks/Tanmay-Mirgal/your-repo?style=flat-square&color=38bdf8)
-> **Stack:** React · Node.js · MongoDB · Redis · AWS  
-> 📌 Description : AI-powered civic issue reporting platform with real-time tracking and intelligent resolution workflows.
-> 🎯 Key achievement: e.g. *Handles 10k+ concurrent requests with sub-100ms response time*
-
-### 🔷 [Smart Meet](https://github.com/Tanmay-Mirgal/Smart-Meeter) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
-> **Stack:** Python · TensorFlow · OpenCV · FastAPI  
-> 📌 Description : AI Meeting Assistant that captures conversations, generates summaries, and improves productivity through automation..  
-> 🎯 Key achievement: e.g. *Achieved 94.7% accuracy on custom dataset*
-> Link :- https://smart-meet.tanmaymirgal.dev
-
-### 🔷 [Slate](https://github.com/Tanmay-Mirgal/Slate) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
-> **Stack:** MERN · PostgreSQL · Docker · CI/CD  
-> 📌 Description : Slate is a premium, enterprise-grade SaaS application designed to eliminate the friction between thinking, drawing, and documenting..  
-> 🎯 Key achievement: e.g. *Deployed and serving 500+ active users*
-> Link : https://slate.tanmaymirgal.dev
-
-### 🔷 [Cognix](https://github.com/Tanmay-Mirgal/Cognix) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
-> **Stack:** MERN · PostgreSQL · Docker · CI/CD  
-> 📌 Description : An AI-powered cognitive health platform for assessment, speech analytics, OCR processing, caregiver monitoring, and intelligent clinical insights.  
-> 🎯 Key achievement: e.g. *Deployed and serving 500+ active users*
-
-### 🔷 [Raga-Music-Player](https://github.com/Tanmay-Mirgal/Raga-Music-Player-) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
-> **Stack:** MERN · PostgreSQL · Docker · CI/CD  
-> 📌 Description : Raga is a premium, next-generation music player ecosystem. 
-> 🎯 Key achievement: e.g. *Deployed and serving 500+ active users*
-> Link :- https://raga.tanmaymirgal.dev
-
-### 🔷 [Orb](https://github.com/Tanmay-Mirgal/Orb) &nbsp; ![Stars](https://img.shields.io/github/stars/Tanmay-Mirgal/your-repo?style=flat-square&color=f59e0b)
-> **Stack:** MERN · PostgreSQL · Docker · CI/CD  
-> 📌 Description : Orb is a fast, scalable Platform-as-a-Service (PaaS) for seamlessly deploying and hosting web applications.  
-> 🎯 Key achievement: e.g. *Deployed and serving 500+ active users*
-> Link :- https://orb.tanmaymirgal.dev
-<div align="center">
-
-**[🔗 See All Projects →](https://github.com/Tanmay-Mirgal?tab=repositories)**
-
-</div>
+> From AI-powered platforms to developer infrastructure, these are some of the products I've designed and engineered from idea to production.
 
 ---
 
-## 📊 Live GitHub Analytics
+### 🌌 Orb — AI Native Platform as a Service
 
-> ⚡ All cards below fetch **real-time data** directly from GitHub — no manual updates needed.
+> **Deploy applications from GitHub in minutes.**
 
-<div align="center">
+Orb is a self-hosted Platform-as-a-Service that automates the complete deployment lifecycle—from importing GitHub repositories and building Docker images to streaming live deployment logs, managing environment variables, and serving applications through production-ready URLs. It is built to provide a developer experience similar to Railway and Render while giving full control over the infrastructure.
 
-<!-- ── ROW 1: Main stats + Top Languages ── -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanmay-mirgal&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-mirgal&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages"/>
+**Highlights**
 
-<br/><br/>
+- 🔹 GitHub OAuth Authentication
+- 🔹 Automatic Repository Detection
+- 🔹 Docker-based Build Pipeline
+- 🔹 Live Deployment Logs
+- 🔹 Environment Variable Management
+- 🔹 Project Dashboard
+- 🔹 Reverse Proxy Routing
+- 🔹 Container Lifecycle Management
 
-<!-- ── ROW 2: Contribution Streak (live) ── -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-mirgal&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=c9d1d9" alt="GitHub Streak"/>
+**Tech Stack**
 
-<br/><br/>
+`Next.js` • `TypeScript` • `Docker` • `PostgreSQL` • `Redis` • `GitHub API` • `Better Auth`
 
-<!-- ── ROW 3: Profile Summary Cards (real API data) ── -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanmay-mirgal&theme=tokyonight" alt="Profile Summary" width="100%"/>
+<p>
+<a href="https://orb.tanmaymirgal.dev">
+<img src="https://img.shields.io/badge/🌍_Live_Demo-0ea5e9?style=for-the-badge"/>
+</a>
 
-<br/>
+<a href="https://github.com/Tanmay-Mirgal/Orb">
+<img src="https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanmay-mirgal&theme=tokyonight" alt="Repos Per Language"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanmay-mirgal&theme=tokyonight" alt="Most Commit Language"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanmay-mirgal&theme=tokyonight" alt="Stats"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanmay-mirgal&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+---
 
-<br/><br/>
+### 🎨 Slate — Collaborative Infinite Whiteboard
 
-<!-- ── ROW 4: Live Activity Graph ── -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay-mirgal&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=f97316&area=true&hide_border=true&area_color=0ea5e920" alt="Contribution Graph" width="100%"/>
+> **A modern collaborative workspace for teams and creators.**
 
-<br/><br/>
+Slate is a real-time collaborative whiteboard designed for brainstorming, system design, planning sessions, and visual collaboration. It combines an infinite canvas with multiplayer editing, rich text support, presence awareness, and a polished user experience to create an enterprise-grade collaboration platform.
+
+**Highlights**
+
+- 🔹 Infinite Canvas
+- 🔹 Multiplayer Collaboration
+- 🔹 Live Cursor Presence
+- 🔹 Rich Text Editor
+- 🔹 Sticky Notes & Shapes
+- 🔹 Zoom & Pan
+- 🔹 Export Support
+- 🔹 Modern SaaS Dashboard
+
+**Tech Stack**
+
+`Next.js` • `TypeScript` • `Liveblocks` • `Tailwind CSS` • `PostgreSQL`
+
+<p>
+<a href="https://slate.tanmaymirgal.dev">
+<img src="https://img.shields.io/badge/🌍_Live_Demo-0ea5e9?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Tanmay-Mirgal/Slate">
+<img src="https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+### 🤖 Smart Meet — AI Meeting Assistant
+
+> **Turn meetings into organized knowledge automatically.**
+
+Smart Meet is an AI-powered meeting assistant that records conversations, generates structured summaries, extracts action items, identifies speakers, and creates searchable transcripts. It helps teams reduce manual note-taking and improve collaboration.
+
+**Highlights**
+
+- 🔹 AI Meeting Summaries
+- 🔹 Speech-to-Text
+- 🔹 Speaker Recognition
+- 🔹 Action Item Extraction
+- 🔹 Searchable Meeting History
+- 🔹 Transcript Export
+
+**Tech Stack**
+
+`Python` • `FastAPI` • `Whisper` • `TensorFlow` • `OpenCV`
+
+<p>
+<a href="https://smart-meet.tanmaymirgal.dev">
+<img src="https://img.shields.io/badge/🌍_Live_Demo-0ea5e9?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Tanmay-Mirgal/Smart-Meeter">
+<img src="https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+### 🧠 Cognix — AI Cognitive Health Platform
+
+> **AI-assisted cognitive assessment and patient monitoring.**
+
+Cognix is a healthcare platform that combines cognitive assessments, speech analysis, OCR processing, and machine learning to help clinicians monitor patients and generate intelligent insights for early intervention and long-term care.
+
+**Highlights**
+
+- 🔹 Cognitive Assessments
+- 🔹 Speech Analytics
+- 🔹 OCR Medical Reports
+- 🔹 Patient Dashboard
+- 🔹 Caregiver Monitoring
+- 🔹 AI-powered Insights
+
+**Tech Stack**
+
+`React` • `Node.js` • `TensorFlow` • `OpenCV` • `MongoDB`
+
+<p>
+<a href="https://github.com/Tanmay-Mirgal/Cognix">
+<img src="https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+### 🏛️ Samadhan — AI Civic Complaint Platform
+
+> **Making public grievance management faster and smarter.**
+
+Samadhan enables citizens to report civic issues while helping government departments categorize, assign, track, and resolve complaints through AI-assisted workflows and real-time dashboards.
+
+**Tech Stack**
+
+`React` • `Node.js` • `MongoDB` • `Redis`
+
+<p>
+<a href="https://github.com/Tanmay-Mirgal/Samadhan">
+<img src="https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+### 🎵 Raga — Modern Music Streaming Platform
+
+> **A premium music streaming experience built with modern web technologies.**
+
+Raga provides playlist management, modern music playback, responsive design, and a polished interface focused on delivering a beautiful listening experience.
+
+**Tech Stack**
+
+`Next.js` • `Node.js` • `PostgreSQL`
+
+<p>
+<a href="https://raga.tanmaymirgal.dev">
+<img src="https://img.shields.io/badge/🌍_Live_Demo-0ea5e9?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Tanmay-Mirgal/Raga-Music-Player-">
+<img src="https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+
 
 <!-- ── ROW 5: Contribution Snake Animation (auto-generated via GitHub Action) ── -->
 <picture>
