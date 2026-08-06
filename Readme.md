@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+I+build+full-stack+products+from+0+to+production;🤖+ML+%26+Deep+Learning+pipelines+that+actually+work;💼+Available+for+Freelance+%26+Full-Time+opportunities;⚡+MERN+%7C+Python+%7C+TensorFlow+%7C+AWS+%7C+Docker;🌍+Open+Source+Contributor+%7C+Always+building+in+public)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+I+build+full-stack+products+from+0+to+production;🤖+ML+%26+Deep+Learning+pipelines+that+actually+work;🛡️+Built+secure+systems+for+the+Indian+Navy+(CTS-71);💼+Available+for+Freelance+%26+Full-Time+opportunities;⚡+MERN+%7C+Python+%7C+TensorFlow+%7C+AWS+%7C+Docker;🌍+Open+Source+Contributor+%7C+Always+building+in+public)](https://git.io/typing-svg)
 
 <br/>
 
@@ -42,6 +42,12 @@ const tanmay = {
   location : "India 🇮🇳  (Remote-first • Open to Relocation)",
   email    : "tanmaymirgal26@gmail.com",
 
+  background: [
+    "Built secure web systems for the Indian Navy's Combat Training System (CTS-71)",
+    "Co-authored a research paper on AI-driven Naval Combat Management Systems",
+    "Currently shipping a live e-commerce platform (VigyBag) with RAG-based recommendations",
+  ],
+
   delivers : [
     "Production-ready MERN web apps — from wireframe to deployment",
     "ML pipelines: data → model → API → dashboard",
@@ -52,8 +58,8 @@ const tanmay = {
 
   strengths: [
     "Full ownership — I handle frontend, backend, ML & DevOps solo",
+    "Comfortable with security and compliance requirements (defense-sector experience)",
     "Fast delivery without cutting corners on code quality",
-    "Clear communication & documentation throughout the project",
     "Active open-source contributor — code reviewed by the community",
   ],
 
@@ -119,17 +125,29 @@ const tanmay = {
 
 </div>
 
+---
+
+## 🛡️ Defense-Sector Experience
+
+<div align="center">
+
+> During my internship at **Tata Advanced Systems Limited**, I worked as a Full Stack Developer on **CTS-71**, a Combat Training System built for the Indian Navy — focused on secure web application development under strict compliance requirements. I later co-authored a research paper on AI-driven capabilities in Naval Combat Management Systems (CMS) and Combat Training Systems (CTS).
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 > From AI-powered platforms to developer infrastructure, these are some of the products I've designed and engineered from idea to production.
 
 ---
 
-### 🌌 Orb — AI Native Platform as a Service
+### 🌌 Orb — Self-Hosted Deployment Platform
 
-> **Deploy applications from GitHub in minutes.**
+> **Push code, get a live URL — no manual server setup.**
 
-Orb is a self-hosted Platform-as-a-Service that automates the complete deployment lifecycle—from importing GitHub repositories and building Docker images to streaming live deployment logs, managing environment variables, and serving applications through production-ready URLs. It is built to provide a developer experience similar to Railway and Render while giving full control over the infrastructure.
+Orb automates the deployment lifecycle end-to-end: importing GitHub repositories, building Docker images, streaming live build/deployment logs, managing environment variables, and routing traffic through a reverse proxy to serve applications on production URLs. Built as a self-hosted alternative to Railway/Render for full infrastructure control.
 
 **Highlights**
 
@@ -158,11 +176,11 @@ Orb is a self-hosted Platform-as-a-Service that automates the complete deploymen
 
 ---
 
-### 🎨 Slate — Collaborative Infinite Whiteboard
+### 🎨 Slate — Real-Time Collaborative Whiteboard
 
-> **A modern collaborative workspace for teams and creators.**
+> **Multiplayer canvas for brainstorming and system design.**
 
-Slate is a real-time collaborative whiteboard designed for brainstorming, system design, planning sessions, and visual collaboration. It combines an infinite canvas with multiplayer editing, rich text support, presence awareness, and a polished user experience to create an enterprise-grade collaboration platform.
+Slate is a real-time whiteboard with an infinite canvas, multiplayer editing, live cursor presence, and rich text support — built for brainstorming sessions, system design discussions, and visual planning with a team.
 
 **Highlights**
 
@@ -195,7 +213,7 @@ Slate is a real-time collaborative whiteboard designed for brainstorming, system
 
 > **Turn meetings into organized knowledge automatically.**
 
-Smart Meet is an AI-powered meeting assistant that records conversations, generates structured summaries, extracts action items, identifies speakers, and creates searchable transcripts. It helps teams reduce manual note-taking and improve collaboration.
+Smart Meet records conversations, transcribes them with speaker recognition, generates structured summaries, and extracts action items — cutting down manual note-taking and making meeting history searchable.
 
 **Highlights**
 
@@ -226,7 +244,7 @@ Smart Meet is an AI-powered meeting assistant that records conversations, genera
 
 > **AI-assisted cognitive assessment and patient monitoring.**
 
-Cognix is a healthcare platform that combines cognitive assessments, speech analysis, OCR processing, and machine learning to help clinicians monitor patients and generate intelligent insights for early intervention and long-term care.
+Cognix combines cognitive assessments, speech analysis, and OCR processing of medical reports to help clinicians monitor patients and catch early signs of cognitive decline through ML-driven insights.
 
 **Highlights**
 
@@ -253,7 +271,7 @@ Cognix is a healthcare platform that combines cognitive assessments, speech anal
 
 > **Making public grievance management faster and smarter.**
 
-Samadhan enables citizens to report civic issues while helping government departments categorize, assign, track, and resolve complaints through AI-assisted workflows and real-time dashboards.
+Samadhan lets citizens report civic issues and helps government departments categorize, assign, and track complaints through AI-assisted workflows and real-time dashboards.
 
 **Tech Stack**
 
@@ -267,11 +285,11 @@ Samadhan enables citizens to report civic issues while helping government depart
 
 ---
 
-### 🎵 Raga — Modern Music Streaming Platform
+### 🎵 Raga — Music Streaming Platform
 
-> **A premium music streaming experience built with modern web technologies.**
+> **Playlist management and playback built with modern web tooling.**
 
-Raga provides playlist management, modern music playback, responsive design, and a polished interface focused on delivering a beautiful listening experience.
+Raga is a music streaming app with playlist management, audio playback controls, and a responsive interface focused on a clean listening experience.
 
 **Tech Stack**
 
@@ -337,7 +355,7 @@ Raga provides playlist management, modern music playback, responsive design, and
 
 <br/>
 
-> *"The best investment is building something that creates value for others."*
+> *"I build full-stack products with AI woven in from day one — not bolted on later."*
 >
 > — Let's build that together.
 
