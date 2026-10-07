@@ -285,36 +285,39 @@ Samadhan lets citizens report civic issues and helps government departments cate
 
 ---
 
-### 🎵 Raga — Music Streaming Platform
+### 🧘‍♂️ Swasthya — AI-Powered Rehabilitation Assistant
 
-> **Playlist management and playback built with modern web tooling.**
+> **Real-time rehabilitation guidance from home using computer vision.**
 
-Raga is a music streaming app with playlist management, audio playback controls, and a responsive interface focused on a clean listening experience.
+Swasthya is a software-based rehabilitation assistant that uses a standard smartphone or laptop camera to track body movements, provide real-time exercise feedback, count repetitions, track progress, and connect patients with healthcare professionals.
+
+**Highlights**
+
+- 🔹 Real-Time Pose Detection using MediaPipe
+- 🔹 33-Point 3D Body Landmark Tracking
+- 🔹 Automatic Repetition Counting
+- 🔹 Real-Time Form Feedback
+- 🔹 Voice Coaching using Web Speech API
+- 🔹 Exercise Progress & Adherence Tracking
+- 🔹 Therapist Dashboard & Exercise Prescription
+- 🔹 Real-Time Chat
+- 🔹 WebRTC Video Consultations
+- 🔹 Session History & Progress Reports
+- 🔹 Client-Side Privacy-Preserving Pose Processing
 
 **Tech Stack**
 
-`Next.js` • `Node.js` • `PostgreSQL`
+`Next.js 16` • `React` • `TypeScript` • `Tailwind CSS` • `MediaPipe Tasks Vision` • `MongoDB` • `Mongoose` • `Clerk` • `WebSockets` • `WebRTC` • `Shadcn UI`
 
 <p>
-<a href="https://raga.tanmaymirgal.dev">
+<a href="https://swasthya.tanmaymirgal.dev/">
 <img src="https://img.shields.io/badge/🌍_Live_Demo-0ea5e9?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Tanmay-Mirgal/Raga-Music-Player-">
+<a href="https://github.com/Tanmay-Mirgal/Swasthya">
 <img src="https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
-
-
-
-<!-- ── ROW 5: Contribution Snake Animation (auto-generated via GitHub Action) ── -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanmay-mirgal/tanmay-mirgal/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanmay-mirgal/tanmay-mirgal/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tanmay-mirgal/tanmay-mirgal/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
 
 ---
 
